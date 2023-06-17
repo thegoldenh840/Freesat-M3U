@@ -1,0 +1,324 @@
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_GB.xml,https://experiencersinternational.github.io/tvsetup/epg.xml" tvg-rec="28" catchup-days="28" catchup="shift"
+#EXTINF:-1 tvg-chno="1" tvg-rec="28" tvg-id="BBCOneEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc1-epg.png" group-title="General",BBC One HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-rec="28" tvg-id="ITV1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1-epg.png" group-title="General",ITV1 HD
+https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-rec="28" tvg-id="Channel4.uk" tvg-logo="https://staticqbr-gb-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/channel-4-hd.png" group-title="General",Channel 4 HD
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-rec="28" tvg-id="Channel5.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/706px-Channel_5_%28UK%29_2016.svg.png" group-title="General",Channel 5 HD
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BBC_Logo_2021.svg" group-title="General",Channel moved
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:-1 tvg-id="UK| BBC 3" tvg-name="UK - BBC 3" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="General",BBC Three HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBC4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="912" tvg-id="BBCAlba.uk" status="blocked",BBC ALBA HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="913" tvg-id="BBCScotland.uk" status="blocked",BBC Scotland HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-rec="28" tvg-id="ITV1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/itv1-epg.png" group-title="General",ITV1 
+https://cdnuk001.broadcastcdn.net/KUK-ITV001/playlist.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="ITV1Plus1.uk" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-plus-uk.png" group-title="General",ITV1 +1
+https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: itv 2" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-2-uk.png" group-title="General",ITV2 HD
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="UK| ITV 2+1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-2-plus-uk.png" group-title="General",ITV2 +1
+http://ss123.pro:80/younes2023/younes2023/228571
+#EXTINF:-1 tvg-chno="10" tvg-rec="28" tvg-id="ITV3.uk" tvg-logo="",ITV3 HD
+https://cdnuk001.broadcastcdn.net/KUK-ITV3/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: itv 3 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-3-plus-uk.png" group-title="General",ITV3 +1
+http://ss123.pro:80/younes2023/younes2023/228572
+#EXTINF:-1 tvg-chno="26" tvg-id="ITV4.uk" status="timeout",ITV4 HD
+https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: itv 4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/itv-4-plus-uk.png" group-title="General",ITV4 +1
+http://ss123.pro:80/younes2023/younes2023/228573
+#EXTINF:-1 tvg-chno="28" tvg-id="ITVBe.uk" status="blocked",ITVBe 
+https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
+#EXTINF:-1 tvg-chno="900" tvg-id="S4C.uk" status="blocked",S4C HD
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-rec="28" tvg-id="Channel4Plus1.uk" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/channel-4-plus-uk.png" group-title="General",Channel 4 +1
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: E4" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/e-4-uk.png" group-title="General",E4
+https://cdnuk001.broadcastcdn.net/KUK-E4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| E4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/e-4-plus-uk.png" group-title="General",E4 +1
+http://ss123.pro:80/younes2023/younes2023/1014225
+#EXTINF:-1 tvg-chno="18" tvg-id="More4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/1280px-More4_logo_2018.svg.png" group-title="General",More4 
+https://cdnuk001.broadcastcdn.net/KUK-MORE4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| MORE4+1 SD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-more-plus-uk.png" group-title="General",More4 +1
+http://ss123.pro:80/younes2023/younes2023/1014226
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4Seven" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-seven-uk.png" group-title="General",4seven
+http://ss123.pro:80/younes2023/younes2023/164074
+#EXTINF:-1 tvg-id="" tvg-name="UK| CHANNEL 5 + 1  HD" tvg-logo="http://focustv.xyz/files/ch/UK/Channel5-plus1eno.png" group-title="General",Channel 5 +1
+http://ss123.pro:80/younes2023/younes2023/45286
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK: 5 USA" tvg-logo="" group-title="General",5USA
+https://cdnuk001.broadcastcdn.net/KUK-5USA/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="FiveUSA.uk" tvg-name="UK| 5 USA+1 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/5-usa-plus-uk.png" group-title="General",5USA +1 
+http://ss123.pro:80/younes2023/younes2023/79694
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="UK: 5 STAR" tvg-logo="" group-title="General",5STAR
+https://cdnuk001.broadcastcdn.net/KUK-5STAR/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="5Action.uk" tvg-name="UK| 5 ACTION HD" tvg-logo="" group-title="General",5ACTION
+https://cdnuk001.broadcastcdn.net/KUK-5ACTION/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="5Select.uk" group-title="General",5SELECT
+https://cdnuk001.broadcastcdn.net/KUK-FIVESELECT/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| REALITY XTRA" tvg-logo="https://i.postimg.cc/ncLdcGm3/Reality-Xtra.png" group-title="General",Reality Xtra
+http://ss123.pro:80/younes2023/younes2023/1014319
+#EXTINF:-1 tvg-chno="67" tvg-id="CBSRealityUK.uk" status="blocked",CBS Reality 
+https://cdnuk001.broadcastcdn.net/KUK-CBSREALITY/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSRealityUK.uk" tvg-name="UK| CBS REALITY +1 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/cbs-reality-plus-uk.png" group-title="General",CBS Reality +1
+http://ss123.pro:80/younes2023/younes2023/45288
+#EXTINF:-1 tvg-id="CBSJustice.uk"  tvg-name="UK - CBS JUSTICE" tvg-logo="https://i.imgur.com/dN2OsIT.png" group-title="General",LEGEND
+https://cdnuk001.broadcastcdn.net/KUK-CBSJUSTICE/playlist.m3u8
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="UK - HORROR CHANNEL" group-title="General",HorrorXtra
+https://cdnuk001.broadcastcdn.net/KUK-HORRORCHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="UK - HORROR CHANNEL" group-title="General",HorrorXtra +1
+http://ss123.pro:80/younes2023/younes2023/1014219
+#EXTINF:-1 tvg-id="5Star.uk" tvg-name="UK| 5STAR + 1 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/5-star-plus-uk.png" group-title="General",5STAR +1
+http://ss123.pro:80/younes2023/younes2023/79693
+#EXTINF:-1 tvg-id="GreatTV.uk" tvg-name="UK| GREAT TV" tvg-logo="https://i.imgur.com/WGeAMUl.png" group-title="General",GREAT! tv
+https://cdnuk001.broadcastcdn.net/KUK-SONYENTERTAINMENT/playlist.m3u8
+#EXTINF:-1 tvg-id="GreatTV.uk" tvg-name="UK| GREAT TV" tvg-logo="https://i.imgur.com/WGeAMUl.png" group-title="General",GREAT! tv +1
+http://ss123.pro:80/younes2023/younes2023/1014215
+#EXTINF:-1 tvg-id="" tvg-name="UK: Pick" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/pick-uk.png" group-title="General",Pick
+http://ss123.pro:80/younes2023/younes2023/289274
+#EXTINF:-1 tvg-chno="48" tvg-id="Challenge.uk" status="blocked",Challenge
+https://cdnuk001.broadcastcdn.net/KUK-CHALLENGE/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arts" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/sky-arts-uk.png" group-title="General",Sky Arts
+http://ss123.pro:80/younes2023/younes2023/30519
+#EXTINF:-1 tvg-chno="43" tvg-id="FoodNetwork.uk" status="blocked",Food Network
+https://cdnuk001.broadcastcdn.net/KUK-FOODNETWORK/playlist.m3u8
+#EXTINF:-1 tvg-chno="43" tvg-id="FoodNetwork.uk" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/food-network-plus-uk.png" status="blocked",Food Network +1
+http://ss123.pro:80/younes2023/younes2023/164047
+#EXTINF:-1 tvg-chno="39" tvg-id="DMAXUK.uk" status="blocked",DMAX
+https://cdnuk001.broadcastcdn.net/KUK-DMAX/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| DMAX+1 HD" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/dmax-plus-uk.png" group-title="General",DMAX +1
+http://ss123.pro:80/younes2023/younes2023/164042
+#EXTINF:-1 tvg-chno="84" tvg-id="PBSAmerica.uk" group-title="General",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="watch.uk" tvg-name="UK: Watch" tvg-logo="" group-title="General",W
+http://ss123.pro:80/younes2023/younes2023/1014331
+#EXTINF:-1 tvg-chno="19" tvg-id="Dave.uk" status="blocked",Dave 
+https://cdnuk001.broadcastcdn.net/KUK-DAVE/playlist.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="Drama.uk" status="blocked",Drama 
+https://cdnuk001.broadcastcdn.net/KUK-DRAMA/playlist.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="Yesterday.uk" status="blocked",Yesterday 
+https://cdnuk001.broadcastcdn.net/KUK-YESTERDAY/playlist.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="Really.uk" status="blocked",Really 
+https://cdnuk001.broadcastcdn.net/KUK-REALLY/playlist.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="Blaze.uk" status="blocked",Blaze
+https://cdnuk001.broadcastcdn.net/KUK-BLAZE/playlist.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="TogetherTV.uk" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/together-tv-uk.png" group-title="General",Together TV
+https://cdnuk001.broadcastcdn.net/KUK-TOGETHER/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="UK: HGTV" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/hgtv-uk.png" group-title="General",HGTV
+http://ss123.pro:80/younes2023/younes2023/1014329
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: Quest" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-uk.png" group-title="General",QUEST HD
+https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK| QUEST +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-plus-uk.png" group-title="General",QUEST +1
+http://ss123.pro:80/younes2023/younes2023/164057
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK: Quest Red" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-red-uk.png" group-title="General",Quest Red
+https://cdnuk001.broadcastcdn.net/KUK-QUESTRED/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Quest Red +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-red-plus-uk.png" group-title="General",Quest Red +1
+http://ss123.pro:80/younes2023/younes2023/164058
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: Quest" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/quest-uk.png" group-title="General",QUEST 
+https://cdnuk001.broadcastcdn.net/KUK-QUESTTVHD/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-rec="28" tvg-id="BBC4.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc4-epg.png" status="blocked",BBC Four 
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="913" tvg-id="BBCScotland.uk" status="blocked",BBC Scotland 
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-id="CourtTV.uk" tvg-name="UK| Court TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/8848/brand.gif?itok=vFCq_rKo" group-title="General",Court TV
+https://cdnuk001.broadcastcdn.net/KUK-COURTTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| That’s TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/That%27s_TV_logo.png" group-title="General",That’s TV
+http://ss123.pro:80/younes2023/younes2023/1013289
+#EXTINF:-1 tvg-id="UK| BBC 3" tvg-name="UK - BBC 3" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc3-epg.png" group-title="General",BBC Three 
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-rec="28" tvg-id="BBCTwoEngland.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbc2-epg.png" group-title="General",BBC Two 
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK| E4 EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/e4.png" group-title="General",E4 Extra
+http://ss123.pro:80/younes2023/younes2023/1014314
+#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" group-title="News" status="online",BBC News HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="BBCParliament.uk" group-title="News" status="blocked",BBC Parliament HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News 
+http://ss123.pro:80/younes2023/younes2023/459636
+#EXTINF:-1 tvg-chno="802" group-title="News" status="blocked",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/France%2024%20-%20English.png" group-title="News",France 24
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Bloomberg%20TV%20HD.png" group-title="News",Bloomberg TV HD
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK| CNBC NEWS HD" tvg-logo="https://static.epg.best/gb/CNBC.uk.png" group-title="News",CNBC News
+http://ss123.pro:80/younes2023/younes2023/164037
+#EXTINF:-1 tvg-chno="231" tvg-id="BBCNews.uk" group-title="News" status="online",BBC News 
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| ARIRANG TV " tvg-logo="" group-title="News",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| TRT WORLD " tvg-logo="" group-title="News",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-chno="236" tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News HD
+https://ythls.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
+#EXTINF:-1 tvg-chno="237" tvg-id="TalkTV.uk" group-title="News",TalkTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| SPORTY STUFF TV " tvg-logo="SportyStuffTV.uk" group-title="News",SportyStuff TV
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film 4" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/film4-epg.png" group-title="Film",Film4
+https://cdnuk001.broadcastcdn.net/KUK-FILM4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| FILM 4 +1" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/film-4-plus-uk.png" group-title="Film",Film4 +1
+http://ss123.pro:80/younes2023/younes2023/1014223
+#EXTINF:-1 tvg-id="GreatMovies.uk" tvg-name="UK| GREAT MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/GREAT-MOVIES.png" group-title="Film",GREAT! movies
+https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIES/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="GreatClassic.uk" tvg-name="UK| GREAT CLASSIC" tvg-logo="http://logo.protv.cc/picons/logos/GREAT-CLASSIC.png" group-title="Film",GREAT! romance 
+https://cdnuk001.broadcastcdn.net/KUK-SONYMOVIESCLASSICS/playlist.m3u8
+#EXTINF:-1 tvg-id="GreatClassic.uk" tvg-name="UK| GREAT CLASSIC" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2021-05/great-movies-classic-plus-1.png?itok=DQk-AyXN" group-title="Film",GREAT! romance +1
+http://ss123.pro:80/younes2023/younes2023/1014214
+#EXTINF:-1 tvg-id="GreatAction.uk" tvg-name="UK| GREAT MOVIES ACTION" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2021/05/GREAT-MOVIES-ACTION.png" group-title="Film",GREAT! action
+https://cdnuk001.broadcastcdn.net/KUK-SONYACTION/playlist.m3u8
+#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK| TALKING PICTURES TV" tvg-logo="https://static.epg.best/uk/TalkingPictures.uk.png" group-title="Film",Talking Pictures TV
+http://ss123.pro:80/younes2023/younes2023/1014228
+#EXTINF:-1 tvg-chno="806" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/4-music-uk.png" tvg-id="BoxHits.uk" group-title="Music",4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/boxhits/
+#EXTINF:0 tvg-country="GB" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/The%20Box.png" group-title="Music",The Box
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/thebox/
+#EXTINF:-1 tvg-chno="806" tvg-id="KissTVUK.uk" group-title="Music",Kiss 
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kiss-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kiss/
+#EXTINF:0 tvg-country="GB" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Magic%20TV.png" group-title="Music",Magic TV
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,magic-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/magic/
+#EXTINF:0 tvg-country="GB" tvg-logo="https://ia800906.us.archive.org/30/items/jsllogos/Kerrang.png" group-title="Music",Kerrang
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?spotxc1=195996&spotxc2=190878&yo.up=https://boxtv.secure.footprint.net/kerrang/
+#EXTINF:-1 tvg-id="thatstvgold.uk" tvg-name="UK| That’s 60s " tvg-logo="" group-title="Music",That’s 60s
+http://stream.live-ip.tv:8080/Tarek_Lyzoul/E1eTAQXJqh/125303
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1280px-CBBC_%282023%29.svg.png" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1280px-CBeebies_2023.svg.png" tvg-id="CBeebies.uk" group-title="Children" status="blocked",CBeebies HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-id="CITV.uk" group-title="Children" status="blocked",CITV
+https://cdnuk001.broadcastcdn.net/KUK-CITV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Pop" tvg-logo="https://static.epg.best/uk/Pop.uk.png" group-title="Children",POP
+https://live-sonybebanjo.simplestreamcdn.com/live8/pop/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| POP Max " tvg-logo="" group-title="Children",POP Max
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="TinyPop.uk" group-title="Children",Tiny POP
+https://live-sonybebanjo.simplestreamcdn.com/live8/tinypop/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1280px-CBBC_%282023%29.svg.png" tvg-id="CBBC.uk" group-title="Children" status="blocked",CBBC 
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/CBeebies_2023.svg/1280px-CBeebies_2023.svg.png" tvg-id="CBeebies.uk" group-title="Children" status="blocked",CBeebies 
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK - DAYSTAR FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DAYSTAR-HD.jpeg" group-title="Religion",Daystar HD
+http://ss123.pro:80/younes2023/younes2023/111561
+#EXTINF:-1 tvg-id="" tvg-name="UK| REVELATION " tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7b134ceb8047f8f7d140ebebf60ea27d.png" group-title="Religion",Revelation
+https://livestream.mdc.akamaized.net/livestream/revelationtv/playlist.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="http://epg.blackouttv.cx/logo/countries/international/god-channel-int.png" group-title="Religion",God TV
+https://cdnuk001.broadcastcdn.net/KUK-GODTV/playlist.m3u8
+#EXTINF:-1 tvg-id="SonlifeTV.uk" tvg-name="UK| Sonlife TV" tvg-logo="" group-title="
+Religion",Sonlife TV
+http://vipblue.live:8080/Andreasp/sDjQKx/246648
+#EXTINF:-1 tvg-chno="700" tvg-id="BBCRadio1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BBC_Radio_1_2021.svg/1280px-BBC_Radio_1_2021.svg.png" group-title="Radio",BBC Radio 1
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 tvg-chno="701" tvg-id="BBCRadio1Xtra.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/1280px-BBC_Radio_1Xtra_2021.svg.png" group-title="Radio",BBC Radio 1Xtra
+https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
+#EXTINF:-1 tvg-chno="702" tvg-id="BBCRadio2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/1280px-BBC_Radio_2_2022.svg.png" group-title="Radio",BBC Radio 2
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
+#EXTINF:-1 tvg-chno="703" tvg-id="BBCRadio3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BBC_Radio_3_2022.svg/1280px-BBC_Radio_3_2022.svg.png" group-title="Radio",BBC Radio 3
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
+#EXTINF:-1 tvg-chno="704" tvg-id="BBCRadio4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BBC_Radio_4_2022.svg/1280px-BBC_Radio_4_2022.svg.png" group-title="Radio",BBC Radio 4
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
+#EXTINF:-1 tvg-chno="705" tvg-id="BBCRadio5Live.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BBC_Radio_5_Live_2022.svg/1280px-BBC_Radio_5_Live_2022.svg.png" group-title="Radio",BBC Radio 5 Live
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
+#EXTINF:-1 tvg-chno="707" tvg-id="BBCRadio6.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBC_Radio_6_Music_2022.svg/1280px-BBC_Radio_6_Music_2022.svg.png" group-title="Radio",BBC Radio 6 Music
+https://stream.live.vc.bbcmedia.co.uk/bbc_6music
+#EXTINF:-1 tvg-chno="708" tvg-id="BBCRadio4Extra.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BBC_Radio_4_Extra_logo_2022.svg/1280px-BBC_Radio_4_Extra_logo_2022.svg.png" group-title="Radio",BBC Radio 4 Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
+#EXTINF:-1 tvg-chno="728" tvg-id="Heart.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1280px-The_Heart_Network_logo.svg.png" group-title="Radio,Music",Heart London
+http://media-ice.musicradio.com/HeartLondon
+#EXTINF:-1 tvg-chno="720-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/BBC_Hereford_%26_Worcester_2022.svg/1280px-BBC_Hereford_%26_Worcester_2022.svg.png" group-title="Radio",BBC Radio Hereford and Worcester
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_hereford_worcester
+#EXTINF:-1 tvg-chno="720-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Cymru_2022.svg/1280px-BBC_Radio_Cymru_2022.svg.png" group-title="Radio",BBC Radio Cymru 
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru
+#EXTINF:-1 tvg-chno="720-3" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BBC_Radio_Devon_2022.svg/1280px-BBC_Radio_Devon_2022.svg.png" group-title="Radio",BBC Radio Devon
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon
+#EXTINF:-1 tvg-chno="720-4" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BBC_Radio_Foyle_2022.svg/1280px-BBC_Radio_Foyle_2022.svg.png" group-title="Radio",BBC Radio Foyle
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle
+#EXTINF:-1 tvg-chno="720-5" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/BBC_Radio_Lancashire_2022.svg/1280px-BBC_Radio_Lancashire_2022.svg.png" group-title="Radio",BBC Radio Lancashire
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_lancashire
+#EXTINF:-1 tvg-chno="720-6" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBC_Radio_nan_G%C3%A0idheal_2022.svg/1280px-BBC_Radio_nan_G%C3%A0idheal_2022.svg.png" group-title="Radio",BBC Radio nan Gàidheal 
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal
+#EXTINF:-1 tvg-chno="720-7" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BBC_Radio_Nottingham_2022.svg/1280px-BBC_Radio_Nottingham_2022.svg.png" group-title="Radio",BBC Radio Nottingham
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nottingham
+#EXTINF:-1 tvg-chno="720-8" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BBC_Radio_Suffolk_2022.svg/1280px-BBC_Radio_Suffolk_2022.svg.png" group-title="Radio",BBC Radio Suffolk
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_suffolk
+#EXTINF:-1 tvg-chno="720-9" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_Radio_Sussex_2022.svg/1280px-BBC_Radio_Sussex_2022.svg.png" group-title="Radio",BBC Radio Sussex
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_sussex
+#EXTINF:-1 tvg-chno="720-10" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BBC_Radio_York_2022.svg/1280px-BBC_Radio_York_2022.svg.png" group-title="Radio",BBC Radio York
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_york
+#EXTINF:-1 tvg-chno="720-11" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BBC_Three_Counties_Radio_2022.svg/1280px-BBC_Three_Counties_Radio_2022.svg.png" group-title="Radio",BBC Radio Three Counties 
+http://stream.live.vc.bbcmedia.co.uk/bbc_three_counties_radio
+#EXTINF:-1 tvg-chno="735-1" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BBC_Radio_Gloucestershire_2022.svg/1280px-BBC_Radio_Gloucestershire_2022.svg.png" group-title="Radio",BBC Radio Gloucestershire
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_gloucestershire
+#EXTINF:-1 tvg-chno="735-2" tvg-id="BBCLocalRadio.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Radio_Derby_2022.svg/1280px-BBC_Radio_Derby_2022.svg.png" group-title="Radio",BBC Radio Derby
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_derby
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Capital Radio
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Capital Xtra
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Classic FM
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Gold Radio
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Radio X
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Absolute Radio
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Absolute 80s
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Planet Rock
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",talkSPORT
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Smooth Radio
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",LBC 97.3
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",BBC Radio Cymru 2
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",Virgin Radio
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",RTE Radio 1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",RTE 2fm
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",RTE Lyric fm
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",RTE RnaG
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",BFBS Radio
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",TRW
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296922
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Radio,Music",BBC Information
+https://experiencersinternational.github.io/tvsetup/staticch/epgupdatech-static.mp4
+#EXTINF:-1 tvg-chno="16" tvg-id="QVCUK.uk" group-title="Shop" tvg-logo="https://i.imgur.com/m1xhwRa.png",QVC HD
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="QVCBeautyUK.uk" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/qvc-beauty-uk.png" group-title="Shop",QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="QVCExtraUK.uk" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/qvc-extra-uk.png" group-title="Shop",QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="QVCStyleUK.uk" tvg-logo="http://epg.blackouttv.cx/logo/countries/united-kingdom/qvc-style-uk.png" group-title="Shop",QVC Style HD
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="GemsTV.uk" group-title="Shop",Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-logo="https://i.imgur.com/O7SdkBh.png" group-title="Shop",Jewelery Maker 
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| TJC FHD" tvg-logo="http://logo.protv.cc/picons/logos/tjc.png" group-title="Shop",TJC HD
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| TJC BEAUTY FHD" tvg-logo="http://logo.protv.cc/picons/logos/tjcbeauty.png" group-title="Shop",TJC Beauty
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/index.m3u
+#EXTINF:-1 tvg-id="IdealWorldTV.uk" tvg-name="UK| IDEAL WORLD  FHD" tvg-logo="" group-title="Shop",Ideal World
+https://ythls.onrender.com/channel/UCJbgGTpBWuC87VFIKTTO4RQ.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="CreateandCraft.uk" group-title="Shop",Create & Craft
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK| Freesat Info" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Freesat_logo.svg/2560px-Freesat_logo.svg.png" group-title="Information",Freesat Info
+https://experiencersinternational.github.io/tvsetup/staticch/info_loop_108030.mp4
